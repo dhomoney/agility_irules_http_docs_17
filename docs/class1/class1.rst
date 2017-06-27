@@ -3,9 +3,17 @@
 
 This class covers the following topics:
 
-- Your
-- Topics
-- Here
+- HTTP Protocol Review
+- HTTP Request Side Overview
+- HTTP Response Side Overview
+- HTTP Related Events
+- HTTP Headers
+- HTTP Methods
+- HTTP Cookies
+- STREAM Command
+- HTTP Payload Capture and Manipulation
+- SSL::profile
+
 
 Expected time to complete: **3 hours**
 

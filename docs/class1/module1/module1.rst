@@ -1,7 +1,7 @@
-Module – This is the First Module
+Labs – Cooking with iRules Labs
 ===================================
 
-Describe what this module teaches here
+This is the collection of HTTP Labs.  Here is where you get to prove you listened in class :)
 
 .. toctree::
    :maxdepth: 1

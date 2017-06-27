@@ -5,10 +5,11 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "Your Class Name"
+classname = "Cooking with iRules - HTTP"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/your-class-repo"
+# github_repo = "https://github.com/f5devcentral/your-class-repo"
+github_repo = "https://github.com/yxeGithub/agility_irules_http_docs_17"
 
 #
 # END CONFIG
@@ -210,6 +211,3 @@ texinfo_documents = [
      author, classname, classname,
      'Training'),
 ]
-
-
-
