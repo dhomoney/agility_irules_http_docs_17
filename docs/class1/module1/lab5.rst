@@ -2,6 +2,11 @@
 Lab 5 – HTTP Payload Manipulation
 #####################################################
 
+Collect an HTTP payload, change it, and release it to the client.
+
+.. IMPORTANT::
+  •	Estimated completion time: 20 minutes
+
 #. Open Chrome Browser
 #. Enter https://bigip1 into the address bar and hit Enter
 #. Login with username: admin password: admin
@@ -24,3 +29,6 @@ Lab 5 – HTTP Payload Manipulation
 #. Click the Finished button
 #. Open the Firefox browser
 #. Enter https://dvwa.f5lab.com  and ensure you get there and it is HTTPS
+
+.. HINT::
+   `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab5irule.rst.txt>`__

@@ -2,6 +2,11 @@
 Lab 4 – Stream Profile
 #####################################################
 
+Create a Stream Profile to change the body of the DVWA site
+
+.. IMPORTANT::
+  •	Estimated completion time: 10 minutes
+
 #. Open Chrome Browser
 #. Enter https://bigip1 into the address bar and hit Enter
 #. Login with username: admin password: admin
@@ -28,3 +33,6 @@ Lab 4 – Stream Profile
 #. Click the Finished button
 #. Open the Firefox browser
 #. Enter https://dvwa.f5lab.com  and ensure you get there and it is HTTPS and that the word “Damn” is replaced with “Darn”
+
+.. HINT::
+   `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab4irule.rst.txt>`__

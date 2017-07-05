@@ -2,6 +2,12 @@
 Lab 3 – HTTP to HTTPS Redirect
 #####################################################
 
+Create an HTTP to HTTPS redirect. Additionally, when traffic goes to the HTTPS side the app selection should still work as well as the header stripping.
+
+.. IMPORTANT::
+  •	Estimated completion time: 20 minutes
+
+
 #. Open Chrome Browser
 #. Enter https://bigip1 into the address bar and hit Enter
 #. Login with username: admin password: admin
@@ -31,3 +37,6 @@ Lab 3 – HTTP to HTTPS Redirect
 #. Now enter http://wackopicko.f5lab.com/ and ensure you get there via HTTPS
 #. Finally, enter http://peruggia.f5lab.com/ and ensure you can get to that app via HTTPS
 #. Look at the headers for each of your requests. Did you log them all? What is the value of the Server header? None of this should have changed since the last lab.
+
+.. HINT::
+   `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab3irule.rst.txt>`__

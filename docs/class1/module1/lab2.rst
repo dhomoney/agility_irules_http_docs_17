@@ -2,6 +2,14 @@
 Lab 2 – Log and Change Headers
 #####################################################
 
+Your iRule should log all request headers and all response headers and should remove the response header “Server”.
+
+.. ATTENTION::
+  Extra Credit: Change it to look like IIS.
+
+.. IMPORTANT::
+  •	Estimated completion time: 15 minutes
+
 #. Open Chrome Browser
 #. Enter https://bigip1 into the address bar and hit Enter
 #. Login with username: admin password: admin
@@ -30,3 +38,6 @@ Lab 2 – Log and Change Headers
 #. Now enter http://wackopicko.f5lab.com/
 #. Finally, enter http://peruggia.f5lab.com/ and ensure you can get to that app
 #. Look at the headers for each of your requests. Did you log them all? What is the value of the Server header?
+
+.. HINT::
+   `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab2irule.rst.txt>`__
