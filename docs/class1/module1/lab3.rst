@@ -40,3 +40,5 @@ Create an HTTP to HTTPS redirect. Additionally, when traffic goes to the HTTPS s
 
 .. HINT::
    `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab3irule.rst.txt>`__
+   
+   Link to DevCentral: https://devcentral.f5.com/wiki/iRules.HTTP__redirect.ashx
