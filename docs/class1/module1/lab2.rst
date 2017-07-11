@@ -41,3 +41,5 @@ Your iRule should log all request headers and all response headers and should re
 
 .. HINT::
    `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab2irule.rst.txt>`__
+   
+   Link to DevCentral: https://devcentral.f5.com/wiki/iRules.HTTP__header.ashx
