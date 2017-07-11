@@ -3,6 +3,7 @@ Lab 5 – HTTP Payload Manipulation
 #####################################################
 
 Collect an HTTP payload, change it, and release it to the client.
+As in the previous lab replace Damn with Darn, or get creative.
 
 .. IMPORTANT::
   •	Estimated completion time: 20 minutes
@@ -32,3 +33,6 @@ Collect an HTTP payload, change it, and release it to the client.
 
 .. HINT::
    `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab5irule.rst.txt>`__
+
+Link to DevCentral: https://devcentral.f5.com/wiki/iRules.HTTP__collect.ashx
+Link to DevCentral: https://devcentral.f5.com/wiki/iRules.HTTP__release.ashx
