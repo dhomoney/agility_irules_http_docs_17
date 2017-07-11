@@ -36,3 +36,6 @@ Create a Stream Profile to change the body of the DVWA site
 
 .. HINT::
    `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab4irule.rst.txt>`__
+
+
+Link to DevCentral: https://devcentral.f5.com/wiki/iRules.STREAM.ashx
