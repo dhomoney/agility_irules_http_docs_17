@@ -40,3 +40,5 @@ Creating your first HTTP iRule that traffic based upon the value of the Host hea
 
 .. HINT::
    `if you need a hint here is some example code: <../../_sources/class1/module1/irules/lab1irule.rst.txt>`__
+   
+   Link to DevCentral: https://devcentral.f5.com/wiki/iRules.HTTP__host.ashx
